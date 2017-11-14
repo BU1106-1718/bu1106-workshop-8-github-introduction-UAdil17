@@ -53,9 +53,9 @@ How many _Pages_ and how many _Content Pages_ are in our KMS (BU1106 Wiki)?
 
 #### Question 2
 What are the three _Most Wanted Pages_ are in our KMS (BU1106 Wiki), i.e. the pages we link to most, but that don't exist yet?
-`Hint: Main Page, Week by Week Page and Help Page. `
-
-**Answer:** Replace this text with your answer.
+`Hint: You can use one of the _Special Pages_ to find out. If there are less than three give me all you found. `
+z
+**Answer:** Main Page, Week by Week Page and Help Page.
 
 #### Question 3
 Give me the names of three _Orphaned Pages_ are in our KMS (BU1106 Wiki), i.e. the pages that are not linked from or transcluded into other pages?
