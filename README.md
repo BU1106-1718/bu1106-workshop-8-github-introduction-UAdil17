@@ -61,4 +61,4 @@ z
 Give me the names of three _Orphaned Pages_ are in our KMS (BU1106 Wiki), i.e. the pages that are not linked from or transcluded into other pages?
 `Hint: You can use one of the _Special Pages_ to find out. `
 
-**Answer:** Replace this text with your answer.
+**Answer:** Category Page, Class Memeber Page and How to structure Wiki Page.
